@@ -1,37 +1,28 @@
-# Prework study guide
+# Prework Study Guide Webpage
 
 ## Description
 
-This app is about mark down styles for the prework repo
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+The prework study guide was a beginner assignment for learning how to navigate and use HTML, Java, CSS, and Git. I built this project in order to learn the basics of coding and the platforms we will be using to download, share, and upload it. 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
+This study guide can be used later to refresh memory and look over old notes from each section. For example if you open the study guide webpage and navigate to Chrome DevTools there will be a list of topics we learned throughout the prework homework.
 
+## Credits
 
-![Bow tie Cat](./assets/bowtie-cat.png)
-
-## Credits/Technology
-
-
+N/A
 
 ## License
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
+---
 
+🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
@@ -49,4 +40,4 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
